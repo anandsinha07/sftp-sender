@@ -1,4 +1,4 @@
-package com.conduent.sftpsender;
+package com.example.sftpsender;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

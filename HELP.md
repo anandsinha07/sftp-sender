@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.conduent.sftp-sender' is invalid and this project uses 'com.conduent.sftpsender' instead.
+* The original package name 'com.example.sftp-sender' is invalid and this project uses 'com.example.sftpsender' instead.
 
 # Getting Started
 

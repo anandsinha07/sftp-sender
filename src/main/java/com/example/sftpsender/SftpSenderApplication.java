@@ -1,4 +1,4 @@
-package com.conduent.sftpsender;
+package com.example.sftpsender;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
